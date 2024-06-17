@@ -1,4 +1,4 @@
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Thorborg#6836) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-de-jesus-avila-rivera-79a491218/) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Thorborg#6836) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-de-jesus-avila-rivera-79a491218/) [![Website](https://img.shields.io/badge/Website-blue.svg)](https://ear.gaussiana.co)
 
 Full-Stack developer with experience in cloud application development . <br>I'm a fast learner and passionate about the IT world, self-taught and problem solving.<br>
 
