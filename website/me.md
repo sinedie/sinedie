@@ -42,6 +42,7 @@
 - `Invert page colors` Enable inversion of colors (dark mode) on wanted pages. Mainly made for Google products.
 
   [![Source](https://img.shields.io/badge/Source-blue.svg)](https://github.com/sinedie/Dark-Mode-Extension)
+  [![Link](https://img.shields.io/badge/Link-blue.svg)](https://addons.mozilla.org/en-US/firefox/addon/dark-mode-toggle-extension)
 
 ### Firebase-Hub Extensions
 
